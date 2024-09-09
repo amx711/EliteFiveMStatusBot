@@ -16,7 +16,7 @@
 ### Important:
 - [x] - **OpenSource Bot**
 
-- [x] - **Windows 10 / 11**
+- [x] - **Arabic Version**
 - [x] - **Download Node Js:** https://nodejs.org/
 
 - [x] - **After Downloading Start installpacks.bat**
