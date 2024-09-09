@@ -1,4 +1,7 @@
-https://img.shields.io/github/languages/top/amx711/EliteFiveMStatusBot?color=eddd02&label-style=flat-square
+<p align="center">
+<img src="https://img.shields.io/github/languages/top/amx711/EliteFiveMStatusBot?color=eddd02&label-style=flat-square" </a>
+</p>
+
 <p align="center">
 <a href="https://discord.gg/sPuxqM8J3j">Elite Code Discord</a>
 
