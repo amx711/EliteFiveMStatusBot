@@ -1,0 +1,5 @@
+{
+    "Token": "YOUR_BOT_TOKEN",
+    "ChannelId": "STATUS_ROOM_ID",
+    "Thumb": "SERVERLOGO_OR_FIVEMLOGO" 
+}
